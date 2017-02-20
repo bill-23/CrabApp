@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CrabApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="timerVal">00:00</string>
+    <string name="pauseButtonLabel">Pause</string>
+    <string name="startButtonLabel">Start</string>
+    <string name="title_activity_timer">Timer</string>
+    <string name="tideButton">Tides</string>
+    <string name="regulationButton">Regulations</string>
+    <string name="resetButton">Reset</string>
+    <string name="title_activity_maps">Map</string>
+    <string name='AIzaSyB81FhfQFmuKmzPj92WCgx9MZbojiFiVEM'>google_maps_key</string>
+    <string name="description"> </string>
+
+
+</resources>

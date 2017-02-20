@@ -1,0 +1,7 @@
+#Thu Dec 08 02:30:19 EST 2016
+base.0=C\:\\Users\\billb\\Desktop\\timer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3caae6a7c5916f40fe821b9cadc80dddb9dee7ca
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\billb\\Desktop\\timer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_30a87e0df4d1c0c6be8cdf2b9e96b8ae533204db\\classes.dex
+base.1=C\:\\Users\\billb\\Desktop\\timer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_30a87e0df4d1c0c6be8cdf2b9e96b8ae533204db
+file.0=C\:\\Users\\billb\\Desktop\\timer\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_3caae6a7c5916f40fe821b9cadc80dddb9dee7ca\\classes.dex

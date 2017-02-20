@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="8"
+    plugin-version="2.2.2"
+    timestamp="15946389687983"
+    token="-1110677973851698806"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="314" />
+    <task
+        name="instant-run-dex"
+        duration="771" />
+    <task
+        name="instant-run-transform"
+        duration="17" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="C:\Users\billb\Desktop\timer\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="15234865391688"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\billb\Desktop\timer\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="15786089446787"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="C:\Users\billb\Desktop\timer\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+        <artifact
+            location="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="15946389687983"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\billb\Desktop\timer\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

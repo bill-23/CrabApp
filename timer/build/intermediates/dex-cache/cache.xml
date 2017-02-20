@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.8.0_621e7c4feeba6748fee540ff831094fd3bf7b4d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.8.0_cdf03bd76430a65638a7ee7d1aac07c725236462\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="98b91804ab37e01d5598ba428cc28147e105fbe5">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_3caae6a7c5916f40fe821b9cadc80dddb9dee7ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="52f30cdd0f601732c85d59ac4b7b53869a720c6e">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_30a87e0df4d1c0c6be8cdf2b9e96b8ae533204db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.8.0_2ef311601acce25be0faa01a8f35672a8c7b4d55\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.8.0_36f0099a832e470ec7d9b4f15f236e9cf8b9316f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.8.0_1a57b645bbe23e946f41a3c0b3eaf0138554d004\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.8.0_26e07a1b727a689dd53a516d985ffe7ff25a5f61\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_60f25b70fc693ee0481a8f1166cc14962cdc3bc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-7.8.0_7295e57d2433f4d53cec7af778755c777f30cc3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.8.0_48a6a1d47b2c43ff8ab3c4f74ec8cfb973732f4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.2.0_89d601bc15b2ad30308bcb3b24f66cd01ac23aa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.8.0_bce445f3a0604d2bf432c8e725b66632527a43f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.8.0_4ecf6439d130b663975d66451fc8fce9764a8416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_675efd14dd0b0fa6bf3649096ce03d07efb6c1c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_60195ab86c586f1a7891b9e131e373497fbaf389\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.8.0_91bb42a2009f06b13ed3f450e947ffb1d618383e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.8.0_65bbaba280f163c5e7c3b7af990adfe684f66bce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_8f013ec9976dcf985143857dbd3f7c7d799e2044\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.8.0_d3dcfd683a4de12a7ef3f9ba0855d74c613adfc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.8.0_ac41ac9cef45e40effc17e1a052ec00e3bb7900a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.8.0_f36499051ae1afabc3d92676bb2ca1086fac3568\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.8.0_3f9abba9f96124d1159a1d3de3c2d9063ef775f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.8.0_3b91ed053bf8ae0a0d0a89b81055eb1a10f50a15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.8.0_cf36d51eb9e6847800577495a6e29f4bb8ae8289\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.8.0_29d4f105278e68827545cbed3afe6b2f01b355cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.8.0_10add4d732b9d29cf09d9f3993820e2046af9b18\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.8.0_25922a5e67a449f629625262461dc28d1f7040c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\billb\Desktop\timer\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\billb\Desktop\timer\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_83de47f19672ed303b5844f9587e48936b922cf9\classes.dex" />
+    </item>
+
+</items>
